@@ -13,6 +13,7 @@ Algorithm:
  
 Program:
 c
+```
 char stack[100];
 int top;
 
@@ -24,7 +25,7 @@ void display()
     }
 }
 
-
+```
 
 Output:
 
@@ -45,6 +46,7 @@ Algorithm:
  
 Program:
 c
+```
 int size=3,top=-1;
 float stack[100];
 void push (float data)
@@ -57,7 +59,7 @@ void push (float data)
     }
 }
 
-
+```
 
 Output:
 
@@ -80,6 +82,7 @@ Algorithm:
  
 Program:
 c
+```
 int front,rear;
 float queue[100];
 
@@ -93,7 +96,7 @@ void display()
         }
     }
 }
-
+```
 
 
 Output:
@@ -117,6 +120,7 @@ Algorithm:
 
 Program:
 c
+```
 int size = 10, rear, front;
 float queue[50];
 void enqueue(float data)
@@ -127,7 +131,7 @@ void enqueue(float data)
         queue[rear] = data;
     }
 }
-
+```
 
 
 Output:
@@ -162,6 +166,7 @@ o	After deletion, check if the front pointer has passed the rear pointer (front 
 
 Program:
 c
+```
 int front, rear;
 void dequeue()
 {
@@ -173,7 +178,7 @@ void dequeue()
     }
 }
 
-
+```
 
 Output:
 
