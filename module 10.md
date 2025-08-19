@@ -10,6 +10,7 @@ Algorithm:
  
 Program:
 c
+```
 struct Node{
     char data; 
     struct Node *next;
@@ -28,7 +29,7 @@ void search(char data){
     }
     flag ? printf("item %c found at location %d", data, i) : printf("Item not found");
 }
-
+```
 
 
 Output:
@@ -51,6 +52,7 @@ Algorithm:
  
 Program:
 c
+```
 struct Node{
     int data; 
     struct Node *next;
@@ -71,7 +73,7 @@ void insert(int data)
     }
     temp -> next = n;
 }
-
+```
 
 
 Output:
@@ -95,6 +97,7 @@ Algorithm:
  
 Program:
 c
+```
 struct Node
 {
     struct Node *prev;
@@ -110,7 +113,7 @@ void display()
         temp = temp->next;
     }
 }
-
+```
 
 
 Output:
@@ -136,6 +139,7 @@ Algorithm:
  
 Program:
 c
+```
 struct Node
 {
     struct Node *prev;
@@ -161,7 +165,7 @@ void insert(float data)
     n -> prev = temp;
 }
 
-
+```
 
 Output:
 
@@ -201,6 +205,7 @@ o	If the element is not found in any node, print a message indicating the elemen
 
 Program:
 c
+```
 struct Node
 {
     struct Node *prev;
@@ -220,7 +225,7 @@ void delete()
     }
     printf("Node deleted\n");
 }
-
+```
 
 
 Output:
