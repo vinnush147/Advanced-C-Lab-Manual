@@ -16,6 +16,7 @@ Else
  
 Program:
 c
+```
 #include <stdio.h>
 
 struct eligible {
@@ -49,7 +50,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 Output:
@@ -77,6 +78,7 @@ Algorithm:
  
 Program:
 c
+```
 #include <stdio.h>
 struct numbers {
     int a;
@@ -102,7 +104,7 @@ int main()
 }
 
 
-
+```
 Output:
 
 <img width="1233" height="681" alt="7(2)" src="https://github.com/user-attachments/assets/3deede24-de0c-42ee-a97a-c8a37d53d094" />
@@ -138,6 +140,7 @@ Use scanf to input the file name into the name array.
 Program:
 
 c
+```
 #include <stdio.h>
 int main()
 {
@@ -158,7 +161,7 @@ int main()
     printf("%s File Closed",file);
     
 }
-
+```
 
 
 Output:
@@ -195,6 +198,7 @@ Use scanf to input the file name into the name array and the number of strings i
 Program:
 
 c
+```
 #include <stdio.h>
 int main()
 {
@@ -221,7 +225,7 @@ int main()
     fclose(file);
     return 0;
 }
-
+```
 
 
 Output:
@@ -268,6 +272,7 @@ Algorithm:
 
 Program:
 c
+```
 #include <stdio.h>
 #include <stdlib.h>
 struct Subject {
@@ -300,7 +305,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 Output:
