@@ -53,8 +53,9 @@ int main() {
 
 
 Output:
+<img width="1372" height="773" alt="7(1)" src="https://github.com/user-attachments/assets/20b6cee6-b109-4a27-806a-8c53757badeb" />
 
-![alt text](image/7(1).png)
+
 
 Result:
 Thus, the program is verified successfully. 
@@ -104,7 +105,8 @@ int main()
 
 Output:
 
-![alt text](image/7(2).png)
+<img width="1233" height="681" alt="7(2)" src="https://github.com/user-attachments/assets/3deede24-de0c-42ee-a97a-c8a37d53d094" />
+
 
 Result:
 Thus, the program is verified successfully
@@ -161,7 +163,8 @@ int main()
 
 Output:
 
-![alt text](image/7(3).png)
+<img width="906" height="377" alt="7(3)" src="https://github.com/user-attachments/assets/67e9879b-99d8-4417-a004-e3a881fc77a5" />
+
 
 
 Result:
@@ -223,7 +226,8 @@ int main()
 
 Output:
 
-![alt text](image/7(4).png)
+<img width="772" height="377" alt="7(4)" src="https://github.com/user-attachments/assets/6dedde5e-a0be-47ee-91c2-70afdef6a2da" />
+
 
 
 Result:
@@ -301,7 +305,8 @@ int main() {
 
 Output:
 
-![alt text](image/7(5).png)
+<img width="478" height="475" alt="7(5)" src="https://github.com/user-attachments/assets/57b184ce-2a1a-41c8-a2c9-24fea10faafc" />
+
 
 
 Result:
